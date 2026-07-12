@@ -1,5 +1,6 @@
-# 💫 About Me:
-I’m a final year student currently working hands-on with Microsoft 365 and Azure, where I get to explore real-world cloud and security concepts beyond textbooks. I genuinely enjoy learning how modern systems work and how technology can make everyday tasks easier.<br><br>I’m especially passionate about Machine Learning and love experimenting with ideas that solve practical problems. Right now, I’m building a project that turns voice notes into actionable tasks, so important thoughts don’t just get recorded and forgotten but actually get done.<br><br>I'm also currently learning new technologies and APIs to integrate in my next project. I’m always curious about new AI technologies, enjoy learning by building, and like working on ideas that combine cloud, automation, and AI in meaningful ways.
+# About Me:
+Hi, I'm Priyanshi. I tell computers what to do for fun, and they usually respond with emotional damage. Half my commits are "final_final_v2_ACTUAL" and the other half are me fixing what I broke five minutes earlier. Currently surviving on caffeine, Stack Overflow, and pure delusion that this build will pass. I spend my days convincing AI to be useful and Docker to behave, while LeetCode keeps me humble. If everything works on the first try, assume something is wrong. Here to build cool things, collect obscure error messages, and pretend I totally knew the fix all along.
+
 
 
 
